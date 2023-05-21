@@ -1,4 +1,4 @@
-# ✅ Morning-Algorithm-Study 
+# ⏱️ Morning-Algorithm-Study
 `Since 2023-05-22`
 </br>
 </br>
