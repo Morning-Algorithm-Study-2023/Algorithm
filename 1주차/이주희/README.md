@@ -6,7 +6,7 @@ import java.util.*;
 class Solution {
     public List<Integer> solution(int[] progresses, int[] speeds) {
         List<Integer> ans = new ArrayList<>();
-        int now=(int)Math.ceil((100-progresses[0]) / (double)speeds[0]), cnt=1;	    // 첫날
+        int now=(int)Math.ceil((100-progresses[0]) / (double)speeds[0]), cnt=1;	    // 현재 날짜
         for(int i=1; i<progresses.length; i++) {
             int day = (int)Math.ceil((100-progresses[i]) / (double)speeds[i]);      // 걸리는 날짜
             if(now >= day) {		// 현재 날짜보다 먼저 끝났다면 갯수 증가
