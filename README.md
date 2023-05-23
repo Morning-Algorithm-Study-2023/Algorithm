@@ -32,9 +32,9 @@
 ## 소스 코드 업로드 🏃🏻‍♀️
 - 주어진 문제를 해결하고 READEME.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
 
-|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **천현우** | **신승철** | **진행 여부** |
+|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **신승철** | **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| 23/05/22 |  기능개발  | 스택/큐 |  <a href="/1주차/이주희/README.md">Solve</a>   | <a href="/1주차/황수영/기능개발.md">Solve</a> |  <a href="/1주차/강승우/기능개발.md">Solve</a>   |    | <a href="/1주차/신승철/기능개발.md">Solve</a> | ✅ |
+| 23/05/22 |  기능개발  | 스택/큐 |  <a href="/1주차/이주희/README.md">Solve</a>   | <a href="/1주차/황수영/기능개발.md">Solve</a> |  <a href="/1주차/강승우/기능개발.md">Solve</a>   | <a href="/1주차/신승철/기능개발.md">Solve</a> | ✅ |
 </br>
 </br>
 
@@ -47,8 +47,6 @@
       <img src="https://avatars.githubusercontent.com/sooyoungh" width="100px"/> <br><br> 황수영 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/ksw13">
       <img src="https://avatars.githubusercontent.com/ksw13" width="100px"/> <br><br> 강승우 <br>(Back-End) </a> <br></td>
-    <td height="20px" align="center"><a href="https://github.com/Chenowoo">
-      <img src="https://avatars.githubusercontent.com/Chenowoo" width="100px"/> <br><br> 천현우 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/sc0116">
       <img src="https://avatars.githubusercontent.com/sc0116" width="100px"/> <br><br> 신승철 <br>(Back-End) </a> <br></td>
   </tr>
