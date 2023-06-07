@@ -68,6 +68,8 @@
       <img src="https://avatars.githubusercontent.com/ksw13" width="100px"/> <br><br> 강승우 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/sc0116">
       <img src="https://avatars.githubusercontent.com/sc0116" width="100px"/> <br><br> 신승철 <br>(Back-End) </a> <br></td>
+     <td height="20px" align="center"><a href="https://github.com/isshosng">
+      <img src="https://avatars.githubusercontent.com/isshosng" width="100px"/> <br><br> 최태승 <br>(Back-End) </a> <br></td>
   </tr>
 </table>
 </br>
