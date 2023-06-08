@@ -29,7 +29,7 @@
 </br>
 
 ## 소스 코드 업로드 🏃🏻‍♀️
-- 주어진 문제를 해결하고 READEME.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
+- 주어진 문제를 해결하고 문제.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
 
 |**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **신승철** | **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
@@ -44,10 +44,14 @@
 | 23/06/01 | 섬 연결하기 | 그리디 | <a href="/2주차/이주희/섬연결하기.md">Solve</a> | <a href="/2주차/황수영/섬연결하기.md">Solve</a> | <a href="/2주차/강승우/섬 연결하기.md">Solve</a> |  | ✅  |
 | 23/06/02 | 단속카메라 | 그리디 | <a href="/2주차/이주희/단속카메라.md">Solve</a> |  | <a href="/2주차/강승우/단속카메라.md">Solve</a> | <a href="/2주차/신승철/단속카메라.md">Solve</a> | ✅ |
 | 23/06/05 | 가장 먼 노드 | 그래프 | <a href="/3주차/이주희/가장먼노드.md">Solve</a> | <a href="/3주차/황수영/가장먼노드.md">Solve</a> | <a href="/3주차/강승우/가장 먼 노드.md">Solve</a> |  | ✅ |
-| 23/06/06 | 순위 | 그래프 | <a href="/3주차/이주희/순위.md">Solve</a> | <a href="/3주차/황수영/순위.md">Solve</a> | <a href="/3주차/강승우/순위.md">Solve</a> |  |  |
-| 23/06/07 | 방의 개수 | 그래프 |  |  |  |  |  |
-| 23/06/08 | 전력망을 둘로 나누기 | 완전탐색 |  |  |  |  |  |
-| 23/06/09 | 모음사전 | 완전탐색 |  |  |  |  |  |
+| 23/06/06 | 순위 | 그래프 | <a href="/3주차/이주희/순위.md">Solve</a> | <a href="/3주차/황수영/순위.md">Solve</a> | <a href="/3주차/강승우/순위.md">Solve</a> |  | ✅ |
+</br>
+
+|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **최태승** | **진행 여부** |
+|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 23/06/07 | 방의 개수 | 그래프 | <a href="/3주차/이주희/방의개수.md">Solve</a> | <a href="/3주차/황수영/방의개수.md">Solve</a> | <a href="/3주차/강승우/방의 개수.md">Solve</a>  |  | ✅  |
+| 23/06/08 | 전력망을 둘로 나누기 | 완전탐색 | <a href="/3주차/이주희/전력망을둘로나누기.md">Solve</a> | <a href="/3주차/황수영/전력망을둘로나누기.md">Solve</a> | <a href="/3주차/강승우/전력망을 둘로 나누기.md">Solve</a> |  |  
+| 23/06/09 | 모음사전 | 완전탐색 |  |  | <a href="/3주차/강승우/모음사전.md">Solve</a> |  |  |
 
 
 </br>
@@ -64,6 +68,8 @@
       <img src="https://avatars.githubusercontent.com/ksw13" width="100px"/> <br><br> 강승우 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/sc0116">
       <img src="https://avatars.githubusercontent.com/sc0116" width="100px"/> <br><br> 신승철 <br>(Back-End) </a> <br></td>
+     <td height="20px" align="center"><a href="https://github.com/isshosng">
+      <img src="https://avatars.githubusercontent.com/isshosng" width="100px"/> <br><br> 최태승 <br>(Back-End) </a> <br></td>
   </tr>
 </table>
 </br>
