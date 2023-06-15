@@ -55,7 +55,7 @@
 | 23/06/12 | 네트워크 | DFS/BFS | <a href="/4주차/이주희/네트워크.md">Solve</a> | <a href="/4주차/황수영/네트워크.md">Solve</a> | <a href="/4주차/강승우/네트워크.md">Solve</a> | <a href="/4주차/최태승/네트워크.md">Solve</a> | ✅ |
 | 23/06/13 | 단어 변환 | DFS/BFS | <a href="/4주차/이주희/단어변환.md">Solve</a> | <a href="/4주차/황수영/단어변환.md">Solve</a> | <a href="/4주차/강승우/단어 변환.md">Solve</a> | <a href="/4주차/최태승/단어변환.md">Solve</a> | ✅ |
 | 23/06/14 | 여행경로 | DFS/BFS | <a href="/4주차/이주희/여행경로.md">Solve</a> |  <a href="/4주차/황수영/여행경로.md">Solve</a> | <a href="/4주차/강승우/여행경로.md">Solve</a> | <a href="/4주차/최태승/여행경로.md">Solve</a> | ✅ |
-| 23/06/15 | 아이템 줍기 | DFS/BFS | <a href="/4주차/이주희/아이템줍기.md">Solve</a> |  | <a href="/4주차/강승우/아이템 줍기.md">Solve</a> |  |  |
+| 23/06/15 | 아이템 줍기 | DFS/BFS | <a href="/4주차/이주희/아이템줍기.md">Solve</a> |  | <a href="/4주차/강승우/아이템 줍기.md">Solve</a> |  | ✅ |
 | 23/06/16 | 퍼즐 조각채우기 | DFS/BFS |  |  |  |  |  |
 
 
