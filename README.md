@@ -63,7 +63,7 @@
 | 23/06/22 | 등굣길 | DP |  <a href="/5주차/이주희/등굣길.md">Solve</a> | <a href="/5주차/황수영/등굣길.md">Solve</a>  | <a href="/5주차/강승우/등굣길.md">Solve</a> | <a href="/5주차/최태승/등굣길.md">Solve</a> | ✅ |
 | 23/06/23 | 도둑질 | DP | <a href="/5주차/이주희/도둑질.md">Solve</a> | <a href="/5주차/황수영/도둑질.md">Solve</a> | <a href="/5주차/강승우/도둑질.md">Solve</a> |  | ✅  |
 | 23/06/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927?language=java">광물 캐기</a> | - | <a href="/6주차/이주희/광물캐기.md">Solve</a> | <a href="/6주차/황수영/광물캐기.md">Solve</a> | <a href="/6주차/강승우/광물 캐기.md">Solve</a> |  | ✅ |
-| 23/06/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199?language=java">리코챗 로봇</a> | - | <a href="/6주차/이주희/리코챗로봇.md">Solve</a> |  |  |  |  |
+| 23/06/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199?language=java">리코챗 로봇</a> | - | <a href="/6주차/이주희/리코챗로봇.md">Solve</a> |  | <a href="/6주차/강승우/리코쳇 로봇.md">Solve</a> |  |  |
 | 23/06/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=java">당구 연습</a> | - |  |  |  |  |  |
 | 23/06/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164672">조건에 부합하는 </br> 중고거래 상태 조회하기</a> | - |  |  |  |  |  |
 | 23/06/30 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585?language=java">혼자서하는 틱택토</a> | - |  |  |  |  |  |
