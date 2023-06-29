@@ -42,7 +42,7 @@
 | 23/05/30 | 징검다리 | 이분탐색 | <a href="/2주차/이주희/징검다리.md">Solve</a> | <a href="/2주차/황수영/징검다리.md">Solve</a> | <a href="/2주차/강승우/징검다리.md">Solve</a> |  | ✅ |
 | 23/05/31 | H-Index | 정렬 | <a href="/2주차/이주희/H-index.md">Solve</a> | <a href="/2주차/황수영/H-index.md">Solve</a> | <a href="/2주차/강승우/H-Index.md">Solve</a> | <a href="/2주차/신승철/H-Index.md">Solve</a> | ✅ |
 | 23/06/01 | 섬 연결하기 | 그리디 | <a href="/2주차/이주희/섬연결하기.md">Solve</a> | <a href="/2주차/황수영/섬연결하기.md">Solve</a> | <a href="/2주차/강승우/섬 연결하기.md">Solve</a> |  | ✅  |
-| 23/06/02 | 단속카메라 | 그리디 | <a href="/2주차/이주희/단속카메라.md">Solve</a> |  | <a href="/2주차/강승우/단속카메라.md">Solve</a> | <a href="/2주차/신승철/단속카메라.md">Solve</a> | ✅ |
+| 23/06/02 | 단속카메라 | 그리디 | <a href="/2주차/이주희/단속카메라.md">Solve</a> | <a href="/2주차/황수영/단속카메라.md">Solve</a> | <a href="/2주차/강승우/단속카메라.md">Solve</a> | <a href="/2주차/신승철/단속카메라.md">Solve</a> | ✅ |
 | 23/06/05 | 가장 먼 노드 | 그래프 | <a href="/3주차/이주희/가장먼노드.md">Solve</a> | <a href="/3주차/황수영/가장먼노드.md">Solve</a> | <a href="/3주차/강승우/가장 먼 노드.md">Solve</a> |  | ✅ |
 | 23/06/06 | 순위 | 그래프 | <a href="/3주차/이주희/순위.md">Solve</a> | <a href="/3주차/황수영/순위.md">Solve</a> | <a href="/3주차/강승우/순위.md">Solve</a> |  | ✅ |
 </br>
