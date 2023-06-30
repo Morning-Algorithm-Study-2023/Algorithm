@@ -67,7 +67,7 @@
 | 23/06/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=java">당구 연습</a> | - | <a href="/6주차/이주희/당구연습.md">Solve</a> | <a href="/6주차/황수영/당구연습.md">Solve</a> | <a href="/6주차/강승우/당구 연습.md">Solve</a> | - | ✅ |
 | 23/06/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585?language=java">혼자서하는 틱택토</a> | - | <a href="/6주차/이주희/혼자서하는틱택토.md">Solve</a> | <a href="/6주차/황수영/혼자서하는틱택토.md">Solve</a> | <a href="/6주차/강승우/혼자서 하는 틱택토.md">Solve</a> | - | ✅ |
 | 23/06/30 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993?language=java">미로 탈출</a> | - |  |  |  | - |  |
-| 23/06/30 | [보너스] [15898. 피아의 아틀리에](https://www.acmicpc.net/problem/15898) | - |  |  |  | - |  |
+| 23/06/30 | [보너스] [15898. 피아의 아틀리에](https://www.acmicpc.net/problem/15898) | - | <a href="/6주차/이주희/피아의아틀리에.md">Solve</a> |  |  | - |  |
 
 
 </br>
