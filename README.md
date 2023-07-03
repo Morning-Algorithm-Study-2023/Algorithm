@@ -68,7 +68,7 @@
 | 23/06/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585?language=java">혼자서하는 틱택토</a> | - | <a href="/6주차/이주희/혼자서하는틱택토.md">Solve</a> | <a href="/6주차/황수영/혼자서하는틱택토.md">Solve</a> | <a href="/6주차/강승우/혼자서 하는 틱택토.md">Solve</a> | - | ✅ |
 | 23/06/30 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993?language=java">미로 탈출</a> | - | <a href="/6주차/이주희/미로탈출.md">Solve</a> | <a href="/6주차/황수영/미로탈출.md">Solve</a> | <a href="/6주차/강승우/미로 탈출.md">Solve</a> | - | ✅ |
 | 23/06/30 | [보너스] [15898. 피아의</br> 아틀리에](https://www.acmicpc.net/problem/15898) | - | <a href="/6주차/이주희/피아의아틀리에.md">Solve</a> |  | <a href="/6주차/강승우/피아의 아틀리에.md">Solve</a> | - | ✅ |
-| 23/07/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=java">시소 짝꿍</a> | - |  |  |   | - |   |
+| 23/07/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=java">시소 짝꿍</a> | - |  | <a href="/7주차/황수영/시소짝꿍.md">Solve</a> |   | - |   |
 | 23/07/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651?language=java">호텔 대실</a> | - |  |  |   | - |   |
 | 23/07/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540?language=java">무인도 여행</a> | - |  |  |   | - |   |
 | 23/07/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=java">택배 배달과 수거하기</a> | - |  |  |   | - |   |
