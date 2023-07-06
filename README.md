@@ -71,7 +71,7 @@
 | 23/07/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=java">시소 짝꿍</a> | - | <a href="/7주차/이주희/시소짝꿍.md">Solve</a> | <a href="/7주차/황수영/시소짝꿍.md">Solve</a> | <a href="/7주차/강승우/시소 짝꿍.md">Solve</a>  | - | ✅ |
 | 23/07/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651?language=java">호텔 대실</a> | - | <a href="/7주차/이주희/호텔대실.md">Solve</a> | <a href="/7주차/황수영/호텔대실.md">Solve</a> | <a href="/7주차/강승우/호텔 대실.md">Solve</a> | - |  ✅ |
 | 23/07/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540?language=java">무인도 여행</a> | - | <a href="/7주차/이주희/무인도여행.md">Solve</a> | <a href="/7주차/황수영/무인도여행.md">Solve</a> | <a href="/7주차/강승우/무인도 여행.md">Solve</a> | - | ✅ |
-| 23/07/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=java">택배 배달과 수거하기</a> | - | <a href="/7주차/이주희/택배배달과수거하기.md">Solve</a>  | <a href="/7주차/황수영/택배배달과수거하기.md">Solve</a> | <a href="/7주차/강승우/택배 배달과 수거하기.md"> | - |   |
+| 23/07/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=java">택배 배달과 수거하기</a> | - | <a href="/7주차/이주희/택배배달과수거하기.md">Solve</a>  | <a href="/7주차/황수영/택배배달과수거하기.md">Solve</a> | <a href="/7주차/강승우/택배 배달과 수거하기.md">Solve</a> | - |   |
 | 23/07/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368?language=java">이모티콘 할인행사</a> | - |  |  |   | - |   |
 
 
