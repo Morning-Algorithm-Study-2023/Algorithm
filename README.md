@@ -75,7 +75,7 @@
 | 23/07/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368?language=java">이모티콘 할인행사</a> | - | <a href="/7주차/이주희/이모티콘할인행사.md">Solve</a> | <a href="/7주차/황수영/이모티콘할인행사.md">Solve</a> | <a href="/7주차/강승우/이모티콘 할인행사.md">Solve</a> | - | ✅ |
 | 23/07/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653?language=java">마법의 엘리베이터</a> | - |  <a href="/8주차/이주희/마법의엘리베이터.md">Solve</a> | <a href="/8주차/황수영/마법의엘리베이터.md">Solve</a> | <a href="/8주차/강승우/마법의 엘리베이터.md">Solve</a> | - | ✅ |
 | 23/07/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148652?language=java">유사 칸토어 비트열</a> | - |   |   | <a href="/8주차/강승우/유사 칸토어 비트열.md">Solve</a> | - |   |
-| 23/07/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354?language=java">테이블 해시 함수</a> | - |   |   |   | - |   |
+| 23/07/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354?language=java">테이블 해시 함수</a> | - |   |   | <a href="/8주차/강승우/테이블 해시 함수.md">Solve</a> | - |   |
 | 23/07/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java">디펜스 게임</a> | - |   |   |   | - |   |
 | 23/07/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java">점 찍기</a> | - |   |   |   | - |   |
 
