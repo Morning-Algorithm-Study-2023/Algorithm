@@ -3,7 +3,7 @@
 - [코드](#코드)
 - [연산 시간](#연산-시간)
 
-
+[피그마 정리 참고](https://www.figma.com/file/1EF9TgfAKYQMHcmnGz1Qa4/Algorithm?type=whiteboard&node-id=0-1&t=y2xIRQQ4Qe8T3UR7-0)
 
 ### 풀이 및 시간복잡도
 > 시간 복잡도 계산한 과정 쓰기
