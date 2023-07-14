@@ -102,11 +102,11 @@
   
 |**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** |  **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|:------:|:------:|
-| 23/07/17 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">뒤에 있는 큰 수 찾기"</a> | - |  |  |  |  |
-| 23/07/18 |  | - |  |  |  |  |
-| 23/07/19 |  | - |  |  |  |  |
-| 23/07/20 |  | - |  |  |  |  |
-| 23/07/21 |  | - |  |  |  |  |
+| 23/07/17 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">뒤에 있는 큰 수 찾기</a> | - |  |  |  |  |
+| 23/07/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154538">숫자 변환하기</a> | - |  |  |  |  |
+| 23/07/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르</a> | - |  |  |  |  |
+| 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | - |  |  |  |  |
+| 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  |  |  |  |
 </br>
   
 </div>
