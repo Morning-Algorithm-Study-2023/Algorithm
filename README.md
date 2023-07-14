@@ -28,11 +28,11 @@
 </br>
 </br>
 
-## ✅ 소스 코드 업로드 
+##  소스 코드 업로드 
 - 주어진 문제를 해결하고 문제.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
 
 <details>
-<summary>1주차 ~ 3주차</summary>
+<summary>📂 1주차 ~ 3주차</summary>
 <div markdown="1">
 <br>
   
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>3주차 ~ 8주차</summary>
+<summary>📂 3주차 ~ 8주차</summary>
 <div markdown="1">
 <br>
   
@@ -96,7 +96,7 @@
 </details>
 
 <details open>
-<summary>9주차 ~ing</summary>
+<summary>📂 9주차 ~ing</summary>
 <div markdown="1">
 <br>
   
