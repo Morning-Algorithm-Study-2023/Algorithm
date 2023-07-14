@@ -96,7 +96,7 @@
 </details>
 
 <details open>
-<summary>9주차~ing</summary>
+<summary>9주차 ~ing</summary>
 <div markdown="1">
 <br>
   
