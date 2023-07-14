@@ -119,15 +119,22 @@
 <table>
   <tr>
     <td height="20px" align="center"><a href="https://github.com/joohee56">
-      <img src="https://avatars.githubusercontent.com/joohee56" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+      <img src="https://avatars.githubusercontent.com/joohee56" width="100px"/></a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/sooyoungh">
-      <img src="https://avatars.githubusercontent.com/sooyoungh" width="100px"/> <br><br> 황수영 <br>(Back-End) </a> <br></td>
+      <img src="https://avatars.githubusercontent.com/sooyoungh" width="100px"/></a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/ksw13">
-      <img src="https://avatars.githubusercontent.com/ksw13" width="100px"/> <br><br> 강승우 <br>(Back-End) </a> <br></td>
+      <img src="https://avatars.githubusercontent.com/ksw13" width="100px"/></a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/sc0116">
-      <img src="https://avatars.githubusercontent.com/sc0116" width="100px"/> <br><br> 신승철 <br>(Back-End) </a> <br></td>
+      <img src="https://avatars.githubusercontent.com/sc0116" width="100px"/></a> <br></td>
      <td height="20px" align="center"><a href="https://github.com/isshosng">
-      <img src="https://avatars.githubusercontent.com/isshosng" width="100px"/> <br><br> 최태승 <br>(Back-End) </a> <br></td>
+      <img src="https://avatars.githubusercontent.com/isshosng" width="100px"/></a> <br></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/joohee56">이주희 <br>(Back-End)</a></td>
+    <td align="center"><a href="https://github.com/sooyoungh">황수영 <br>(Back-End)</a></td>
+    <td align="center"><a href="https://github.com/ksw13">강승우 <br>(Back-End)</a></td>
+    <td align="center"><a href="https://github.com/sc0116">신승철 <br>(Back-End)</a></td>
+    <td align="center"><a href="https://github.com/isshosng">최태승 <br>(Back-End)</a></td>
   </tr>
 </table>
 </br>
