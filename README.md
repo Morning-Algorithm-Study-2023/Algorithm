@@ -90,7 +90,7 @@
 | 23/07/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148652?language=java">유사 칸토어 비트열</a> | - | <a href="/8주차/이주희/유사칸토어비트열.md">Solve</a>  | <a href="/8주차/황수영/유사칸토어비트열.md">Solve</a>  | <a href="/8주차/강승우/유사 칸토어 비트열.md">Solve</a> | - | ✅  |
 | 23/07/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354?language=java">테이블 해시 함수</a> | - | <a href="/8주차/이주희/테이블해시함수.md">Solve</a>  | <a href="/8주차/황수영/테이블해시함수.md">Solve</a> | <a href="/8주차/강승우/테이블 해시 함수.md">Solve</a> | - | ✅  |
 | 23/07/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java">디펜스 게임</a> | - |<a href="/8주차/이주희/디펜스게임.md">Solve</a>| <a href="/8주차/황수영/디펜스게임.md">Solve</a> | <a href="/8주차/강승우/디펜스 게임.md">Solve</a> | - | ✅  |
-| 23/07/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java">점 찍기</a> | - | <a href="/8주차/이주희/점찍기.md">Solve</a>  |   | <a href="/8주차/강승우/점 찍기.md">Solve</a> | - |   |
+| 23/07/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java">점 찍기</a> | - | <a href="/8주차/이주희/점찍기.md">Solve</a>  | <a href="/8주차/황수영/점찍기.md">Solve</a> | <a href="/8주차/강승우/점 찍기.md">Solve</a> | - |   |
   
 </div>
 </details>
