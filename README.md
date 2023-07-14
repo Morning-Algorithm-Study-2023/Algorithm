@@ -31,7 +31,11 @@
 ## ✅ 소스 코드 업로드 
 - 주어진 문제를 해결하고 문제.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
 
-### 1주차~3주차
+<details>
+<summary>1주차 ~ 3주차</summary>
+<div markdown="1">
+<br>
+  
 |**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **신승철** | **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 23/05/22 |  기능개발 | 스택/큐 |  <a href="/1주차/이주희/기능개발.md">Solve</a>   | <a href="/1주차/황수영/기능개발.md">Solve</a> |  <a href="/1주차/강승우/기능개발.md">Solve</a>   | <a href="/1주차/신승철/기능개발.md">Solve</a> | ✅ |
@@ -47,8 +51,15 @@
 | 23/06/05 | 가장 먼 노드 | 그래프 | <a href="/3주차/이주희/가장먼노드.md">Solve</a> | <a href="/3주차/황수영/가장먼노드.md">Solve</a> | <a href="/3주차/강승우/가장 먼 노드.md">Solve</a> |  | ✅ |
 | 23/06/06 | 순위 | 그래프 | <a href="/3주차/이주희/순위.md">Solve</a> | <a href="/3주차/황수영/순위.md">Solve</a> | <a href="/3주차/강승우/순위.md">Solve</a> |  | ✅ |
 </br>
+  
+</div>
+</details>
 
-### 3주차 ~ 8주차
+<details>
+<summary>3주차 ~ 8주차</summary>
+<div markdown="1">
+<br>
+  
 |**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** | **최태승** | **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 23/06/07 | 방의 개수 | 그래프 | <a href="/3주차/이주희/방의개수.md">Solve</a> | <a href="/3주차/황수영/방의개수.md">Solve</a> | <a href="/3주차/강승우/방의 개수.md">Solve</a>  |  | ✅  |
@@ -80,7 +91,15 @@
 | 23/07/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354?language=java">테이블 해시 함수</a> | - | <a href="/8주차/이주희/테이블해시함수.md">Solve</a>  | <a href="/8주차/황수영/테이블해시함수.md">Solve</a> | <a href="/8주차/강승우/테이블 해시 함수.md">Solve</a> | - | ✅  |
 | 23/07/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java">디펜스 게임</a> | - |<a href="/8주차/이주희/디펜스게임.md">Solve</a>| <a href="/8주차/황수영/디펜스게임.md">Solve</a> | <a href="/8주차/강승우/디펜스 게임.md">Solve</a> | - | ✅  |
 | 23/07/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java">점 찍기</a> | - | <a href="/8주차/이주희/점찍기.md">Solve</a>  |   | <a href="/8주차/강승우/점 찍기.md">Solve</a> | - |   |
+  
+</div>
+</details>
 
+### 9주차 ~
+
+|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** |  **진행 여부** |
+|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 23/06/07 | 방의 개수 | 그래프 | <a href="/3주차/이주희/방의개수.md">Solve</a> | <a href="/3주차/황수영/방의개수.md">Solve</a> | <a href="/3주차/강승우/방의 개수.md">Solve</a>  |  ✅  |
 
 </br>
 </br>
