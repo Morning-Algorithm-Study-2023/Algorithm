@@ -55,7 +55,7 @@
 </div>
 </details>
 
-<details open>
+<details>
 <summary>📂 3주차 ~ 8주차</summary>
 <div markdown="1">
 <br>
