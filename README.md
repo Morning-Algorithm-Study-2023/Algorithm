@@ -106,7 +106,7 @@
 | 23/07/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154538">숫자 변환하기</a> | - | <a href="/9주차/이주희/숫자변환하기.md">Solve</a> | <a href="/9주차/황수영/숫자변환하기.md">Solve</a> | <a href="/9주차/강승우/숫자 변환하기.md">Solve</a> | ✅ |
 | 23/07/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a> | - | <a href="/9주차/이주희/귤고르기.md">Solve</a> | <a href="/9주차/황수영/귤고르기.md">Solve</a> | <a href="/9주차/강승우/귤 고르기.md">Solve</a> | ✅ |
 | 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | - | <a href="/9주차/이주희/숫자카드나누기.md">Solve</a> | <a href="/9주차/황수영/숫자카드나누기.md">Solve</a> | <a href="/9주차/강승우/숫자 카드 나누기.md">Solve</a> | ✅ |
-| 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> |  |
+| 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> | ✅ |
 </br>
   
 </div>
