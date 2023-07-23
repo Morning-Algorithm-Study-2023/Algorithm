@@ -95,8 +95,8 @@
 </div>
 </details>
 
-<details>
-<summary>📂 9주차</summary>
+<details open>
+<summary>📂 9주차 ~ ing</summary>
 <div markdown="1">
 <br>
   
@@ -107,26 +107,13 @@
 | 23/07/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a> | - | <a href="/9주차/이주희/귤고르기.md">Solve</a> | <a href="/9주차/황수영/귤고르기.md">Solve</a> | <a href="/9주차/강승우/귤 고르기.md">Solve</a> | ✅ |
 | 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | - | <a href="/9주차/이주희/숫자카드나누기.md">Solve</a> | <a href="/9주차/황수영/숫자카드나누기.md">Solve</a> | <a href="/9주차/강승우/숫자 카드 나누기.md">Solve</a> | ✅ |
 | 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> | ✅ |
-</br>
-  
-</div>
-</details>
-
-<details open>
-<summary>📂 10주차 ~ing</summary>
-<div markdown="1">
-<br>
-  
-|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** |  **진행 여부** |
-|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|
 | 23/07/24 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a> | - |  |  |  | |
 | 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a> | - |  |  |  | |
 | 23/07/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a> | - |  |  |  | |
 | 23/07/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a> | - |  |  |  | |
 | 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> | - |  |  |  | |
-
 </br>
-
+  
 </div>
 </details>
 
