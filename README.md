@@ -108,7 +108,7 @@
 | 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | - | <a href="/9주차/이주희/숫자카드나누기.md">Solve</a> | <a href="/9주차/황수영/숫자카드나누기.md">Solve</a> | <a href="/9주차/강승우/숫자 카드 나누기.md">Solve</a> | ✅ |
 | 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> | ✅ |
 | 23/07/24 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a> | - | <a href="/10주차/이주희/롤케이크자르기.md">Solve</a> | <a href="/10주차/황수영/롤케이크자르기.md">Solve</a> | <a href="/10주차/강승우/롤케이크 자르기.md">Solve</a> | |
-| 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a> | - |  |  | <a href="/10주차/강승우/n^2 배열 자르기.md">Solve</a> | |
+| 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a> | - | <a href="/10주차/이주희/n^2배열자르기.md">Solve</a> |  | <a href="/10주차/강승우/n^2 배열 자르기.md">Solve</a> | |
 | 23/07/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a> | - |  |  |  | |
 | 23/07/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a> | - |  |  |  | |
 | 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> | - |  |  |  | |
