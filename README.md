@@ -111,7 +111,7 @@
 | 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a> | - | <a href="/10주차/이주희/n^2배열자르기.md">Solve</a> | <a href="/10주차/황수영/n^2 배열 자르기.md">Solve</a> | <a href="/10주차/강승우/n^2 배열 자르기.md">Solve</a> | ✅ |
 | 23/07/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a> | - | <a href="/10주차/이주희/쿼드압축후개수세기.md">Solve</a> | <a href="/10주차/황수영/쿼드압축 후 개수 세기.md">Solve</a> | <a href="/10주차/강승우/쿼드압축 후 개수 세기.md">Solve</a> | ✅ |
 | 23/07/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a> | - | <a href="/10주차/이주희/최고의집합.md">Solve</a> | <a href="/10주차/황수영/최고의 집합.md">Solve</a> | <a href="/10주차/강승우/최고의 집합.md">Solve</a> | |
-| 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">등산코스 정하기</a> | - |  |  | <a href="/10주차/강승우/등산코스 정하기.md">Solve</a> | |
+| 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">등산코스 정하기</a> | - |  | <a href="/10주차/황수영/등산코스 정하기.md">Solve</a> | <a href="/10주차/강승우/등산코스 정하기.md">Solve</a> | |
 </br>
   
 </div>
