@@ -1,19 +1,19 @@
-# ⏱️ Morning-Algorithm-Study
-`Since 2023-05-22`
+# 🏃🏻‍♂️ Morning-Algorithm-Study
+`Since 2023-05-22` ~ `ing`
 </br>
 </br>
 
 ## 📍계획 
-#### 1. 일정
+### 1. 일정
 주 5일(평일), 오후 9시    
 </br>
 
-#### 2. 방식
+### 2. 방식
 * 오후 9시 코드 리뷰 시간 전까지 주어진 문제를 해결한 후 해당 코드를 업로드
 * 소요 시간, 메모리, 풀이 방법 함께 기재
 </br>
 
-#### 3. 문제 선정
+### 3. 문제 선정
 [프로그래머스](https://programmers.co.kr/)    
 
 ```
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary>📂 3주차 ~ 8주차</summary>
+<summary>📂 3주차 ~ 8주차 </summary>
 <div markdown="1">
 <br>
   
@@ -97,7 +97,7 @@
 </details>
 
 <details open>
-<summary>📂 9주차 ~ ing</summary>
+<summary>📂 9주차 ~ ing </summary>
 <div markdown="1">
 <br>
   
