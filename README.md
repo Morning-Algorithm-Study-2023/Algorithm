@@ -121,7 +121,7 @@
 | 23/08/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=java">에어컨</a> | - |  | 🅿️ | <a href="/12주차/강승우/에어컨.md">Solve</a> |  |
 | 23/08/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java">상담원 인원</a> | - | 🅿️ | 🅿️ | 🅿️ | 🅿️ |
 | 23/08/09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java">표현 가능한 이진트리</a> | - | <a href="/12주차/이주희/표현가능한이진트리.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표현 가능한 이진트리.md">Solve</a> |  ✅ |
-| 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | - |  | 🅿️ |  |  |
+| 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | - |  | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> |  |
 | 23/08/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java">미로 탈출 명령어</a> | - |  | 🅿️ |  |  |
 </br>
   
