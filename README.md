@@ -101,28 +101,28 @@
 <div markdown="1">
 <br>
   
-|**날짜**| **문제** | **문제 유형** | **이주희** | **황수영** | **강승우** |  **진행 여부** |
-|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|
-| 23/07/17 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">뒤에 있는 큰 수 찾기</a> | - | <a href="/9주차/이주희/뒤에있는큰수찾기.md">Solve</a> | <a href="/9주차/황수영/뒤에있는큰수.md">Solve</a> | <a href="/9주차/강승우/뒤에 있는 큰 수 찾기.md">Solve</a> | ✅ |
-| 23/07/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154538">숫자 변환하기</a> | - | <a href="/9주차/이주희/숫자변환하기.md">Solve</a> | <a href="/9주차/황수영/숫자변환하기.md">Solve</a> | <a href="/9주차/강승우/숫자 변환하기.md">Solve</a> | ✅ |
-| 23/07/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a> | - | <a href="/9주차/이주희/귤고르기.md">Solve</a> | <a href="/9주차/황수영/귤고르기.md">Solve</a> | <a href="/9주차/강승우/귤 고르기.md">Solve</a> | ✅ |
-| 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | - | <a href="/9주차/이주희/숫자카드나누기.md">Solve</a> | <a href="/9주차/황수영/숫자카드나누기.md">Solve</a> | <a href="/9주차/강승우/숫자 카드 나누기.md">Solve</a> | ✅ |
-| 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | - |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> | ✅ |
-| 23/07/24 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a> | - | <a href="/10주차/이주희/롤케이크자르기.md">Solve</a> | <a href="/10주차/황수영/롤케이크자르기.md">Solve</a> | <a href="/10주차/강승우/롤케이크 자르기.md">Solve</a> | ✅ |
-| 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a> | - | <a href="/10주차/이주희/n^2배열자르기.md">Solve</a> | <a href="/10주차/황수영/n^2 배열 자르기.md">Solve</a> | <a href="/10주차/강승우/n^2 배열 자르기.md">Solve</a> | ✅ |
-| 23/07/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a> | - | <a href="/10주차/이주희/쿼드압축후개수세기.md">Solve</a> | <a href="/10주차/황수영/쿼드압축 후 개수 세기.md">Solve</a> | <a href="/10주차/강승우/쿼드압축 후 개수 세기.md">Solve</a> | ✅ |
-| 23/07/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a> | - | <a href="/10주차/이주희/최고의집합.md">Solve</a> | <a href="/10주차/황수영/최고의 집합.md">Solve</a> | <a href="/10주차/강승우/최고의 집합.md">Solve</a> | ✅ |
-| 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">등산코스 정하기</a> | - | <a href="/10주차/이주희/등산코스정하기.md">Solve</a> | <a href="/10주차/황수영/등산코스 정하기.md">Solve</a> | <a href="/10주차/강승우/등산코스 정하기.md">Solve</a> | ✅ |
-| 23/07/31 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java">성격 유형 검사하기</a> | - |  <a href="/11주차/이주희/성격유형검사하기.md">Solve</a> |  | <a href="/11주차/강승우/성격 유형 검사하기.md">Solve</a> | ✅ |
-| 23/08/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667?language=java">두 큐 합 같게 만들기</a> | - | <a href="/11주차/이주희/두큐합같게만들기.md">Solve</a> | <a href="/11주차/황수영/두 큐 합 같게 만들기.md">Solve</a> | <a href="/11주차/강승우/두 큐 합 같게 만들기.md">Solve</a> | ✅ |
-| 23/08/02 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668?language=java">코딩 테스트 공부</a> | - | <a href="/11주차/이주희/코딩테스트공부.md">Solve</a> |  <a href="/11주차/황수영/코딩 테스트 공부.md">Solve</a> | <a href="/11주차/강승우/코딩 테스트 공부.md">Solve</a> | ✅ |
-| 23/08/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=java">스타 수열</a> | - | <a href="/11주차/이주희/스타수열.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/스타 수열.md">Solve</a> | ✅ |
-| 23/08/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=java">풍선 터트리기</a> | - | <a href="/11주차/이주희/풍선터트리기.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/풍선 터트리기.md">Solve</a> | ✅ |
-| 23/08/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=java">에어컨</a> | - |  | 🅿️ | <a href="/12주차/강승우/에어컨.md">Solve</a> | ✅ |
-| 23/08/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java">상담원 인원</a> | - | 🅿️ | 🅿️ | 🅿️ | 🅿️ |
-| 23/08/09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java">표현 가능한 이진트리</a> | - | <a href="/12주차/이주희/표현가능한이진트리.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표현 가능한 이진트리.md">Solve</a> |  ✅ |
-| 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | - | <a href="/12주차/이주희/표병합.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> | ✅ |
-| 23/08/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java">미로 탈출 명령어</a> | - | <a href="/12주차/이주희/미로탈출명령어.md">Solve</a> | 🅿️ |  |  |
+|**날짜**| **문제** | **이주희** | **황수영** | **강승우** |  **진행 여부** |
+|:-----:|:------:|:------:|:------:|:------:|:------:|
+| 23/07/17 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">뒤에 있는 큰 수 찾기</a> | <a href="/9주차/이주희/뒤에있는큰수찾기.md">Solve</a> | <a href="/9주차/황수영/뒤에있는큰수.md">Solve</a> | <a href="/9주차/강승우/뒤에 있는 큰 수 찾기.md">Solve</a> | ✅ |
+| 23/07/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154538">숫자 변환하기</a> | <a href="/9주차/이주희/숫자변환하기.md">Solve</a> | <a href="/9주차/황수영/숫자변환하기.md">Solve</a> | <a href="/9주차/강승우/숫자 변환하기.md">Solve</a> | ✅ |
+| 23/07/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a> | <a href="/9주차/이주희/귤고르기.md">Solve</a> | <a href="/9주차/황수영/귤고르기.md">Solve</a> | <a href="/9주차/강승우/귤 고르기.md">Solve</a> | ✅ |
+| 23/07/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a> | <a href="/9주차/이주희/숫자카드나누기.md">Solve</a> | <a href="/9주차/황수영/숫자카드나누기.md">Solve</a> | <a href="/9주차/강승우/숫자 카드 나누기.md">Solve</a> | ✅ |
+| 23/07/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a>  |  <a href="/9주차/이주희/우박수열정적분.md">Solve</a> |<a href="/9주차/황수영/우박수열정적분.md">Solve</a> | <a href="/9주차/강승우/우박수열 정적분.md">Solve</a> | ✅ |
+| 23/07/24 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a>| <a href="/10주차/이주희/롤케이크자르기.md">Solve</a> | <a href="/10주차/황수영/롤케이크자르기.md">Solve</a> | <a href="/10주차/강승우/롤케이크 자르기.md">Solve</a> | ✅ |
+| 23/07/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a>| <a href="/10주차/이주희/n^2배열자르기.md">Solve</a> | <a href="/10주차/황수영/n^2 배열 자르기.md">Solve</a> | <a href="/10주차/강승우/n^2 배열 자르기.md">Solve</a> | ✅ |
+| 23/07/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a> | <a href="/10주차/이주희/쿼드압축후개수세기.md">Solve</a> | <a href="/10주차/황수영/쿼드압축 후 개수 세기.md">Solve</a> | <a href="/10주차/강승우/쿼드압축 후 개수 세기.md">Solve</a> | ✅ |
+| 23/07/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a> | <a href="/10주차/이주희/최고의집합.md">Solve</a> | <a href="/10주차/황수영/최고의 집합.md">Solve</a> | <a href="/10주차/강승우/최고의 집합.md">Solve</a> | ✅ |
+| 23/07/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">등산코스 정하기</a> | <a href="/10주차/이주희/등산코스정하기.md">Solve</a> | <a href="/10주차/황수영/등산코스 정하기.md">Solve</a> | <a href="/10주차/강승우/등산코스 정하기.md">Solve</a> | ✅ |
+| 23/07/31 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java">성격 유형 검사하기</a> |  <a href="/11주차/이주희/성격유형검사하기.md">Solve</a> |  | <a href="/11주차/강승우/성격 유형 검사하기.md">Solve</a> | ✅ |
+| 23/08/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667?language=java">두 큐 합 같게 만들기</a> | <a href="/11주차/이주희/두큐합같게만들기.md">Solve</a> | <a href="/11주차/황수영/두 큐 합 같게 만들기.md">Solve</a> | <a href="/11주차/강승우/두 큐 합 같게 만들기.md">Solve</a> | ✅ |
+| 23/08/02 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668?language=java">코딩 테스트 공부</a> | <a href="/11주차/이주희/코딩테스트공부.md">Solve</a> |  <a href="/11주차/황수영/코딩 테스트 공부.md">Solve</a> | <a href="/11주차/강승우/코딩 테스트 공부.md">Solve</a> | ✅ |
+| 23/08/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=java">스타 수열</a> | <a href="/11주차/이주희/스타수열.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/스타 수열.md">Solve</a> | ✅ |
+| 23/08/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=java">풍선 터트리기</a> | <a href="/11주차/이주희/풍선터트리기.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/풍선 터트리기.md">Solve</a> | ✅ |
+| 23/08/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=java">에어컨</a> |  | 🅿️ | <a href="/12주차/강승우/에어컨.md">Solve</a> | ✅ |
+| 23/08/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java">상담원 인원</a> | 🅿️ | 🅿️ | 🅿️ | 🅿️ |
+| 23/08/09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java">표현 가능한 이진트리</a> | <a href="/12주차/이주희/표현가능한이진트리.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표현 가능한 이진트리.md">Solve</a> |  ✅ |
+| 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | <a href="/12주차/이주희/표병합.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> | ✅ |
+| 23/08/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java">미로 탈출 명령어</a> | <a href="/12주차/이주희/미로탈출명령어.md">Solve</a> | 🅿️ |  |  |
 </br>
   
 </div>
