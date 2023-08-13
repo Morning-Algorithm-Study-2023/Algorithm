@@ -1,5 +1,6 @@
 # 🏃🏻‍♂️ Morning-Algorithm-Study
-`Since 2023-05-22` ~ `ing`
+`Since 2023-05-22`   
+`Break 2023-08-14 ~ `
 </br>
 </br>
 
