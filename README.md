@@ -118,7 +118,7 @@
 | 23/08/02 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668?language=java">코딩 테스트 공부</a> | <a href="/11주차/이주희/코딩테스트공부.md">Solve</a> |  <a href="/11주차/황수영/코딩 테스트 공부.md">Solve</a> | <a href="/11주차/강승우/코딩 테스트 공부.md">Solve</a> | ✅ |
 | 23/08/03 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=java">스타 수열</a> | <a href="/11주차/이주희/스타수열.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/스타 수열.md">Solve</a> | ✅ |
 | 23/08/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=java">풍선 터트리기</a> | <a href="/11주차/이주희/풍선터트리기.md">Solve</a> | 🅿️ | <a href="/11주차/강승우/풍선 터트리기.md">Solve</a> | ✅ |
-| 23/08/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=java">에어컨</a> |  | 🅿️ | <a href="/12주차/강승우/에어컨.md">Solve</a> | ✅ |
+| 23/08/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=java">에어컨</a> | <a href="/12주차/이주희/에어컨.md">  | 🅿️ | <a href="/12주차/강승우/에어컨.md">Solve</a> | ✅ |
 | 23/08/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java">상담원 인원</a> | 🅿️ | 🅿️ | 🅿️ | 🅿️ |
 | 23/08/09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java">표현 가능한 이진트리</a> | <a href="/12주차/이주희/표현가능한이진트리.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표현 가능한 이진트리.md">Solve</a> |  ✅ |
 | 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | <a href="/12주차/이주희/표병합.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> | ✅ |
