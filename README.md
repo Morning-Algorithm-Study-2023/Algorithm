@@ -126,7 +126,7 @@
 | 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | <a href="/12주차/이주희/표병합.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> | ✅ |
 | 23/08/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java">미로 탈출 명령어</a> | <a href="/12주차/이주희/미로탈출명령어.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/미로 탈출 명령어.md">Solve</a> | ✅ |
 | 23/08/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=java">표 편집</a> |  |  | <a href="/13주차/강승우/표 편집.md">Solve</a> |  |
-| 23/08/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=java">110 옮기기</a> |  |  |  |  |
+| 23/08/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=java">110 옮기기</a> |  |  | <a href="/13주차/강승우/110 옮기기.md">Solve</a> |  |
 | 23/08/30 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486?language=java">다단계 칫솔 판매</a> |  |  |  |  |
 | 23/08/31 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=java">모두 0으로 만들기</a> |  |  |  |  |
 | 23/09/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java">카드 짝 맞추기</a> |  |  |  |  |
