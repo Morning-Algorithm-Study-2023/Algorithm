@@ -143,8 +143,6 @@
 | 23/09/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java">카드 짝 맞추기</a> |  |  |  |
 
 
-
-
 </br>
   
 </div>
