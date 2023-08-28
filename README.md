@@ -134,7 +134,7 @@
 <div markdown="1">
 <br>
   
-|**날짜**| **문제** | **이주희** | **강승우** |  **진행** |
+|**날짜**| **문제** | **이주희** | **강승우** |  **진행 여부** |
 |:-----:|:------:|:------:|:------:|:------:|
 | 23/08/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=java">표 편집</a> | <a href="/15주차/이주희/표편집.md">Solve</a> | <a href="/15주차/강승우/표 편집.md">Solve</a> |  |
 | 23/08/29 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=java">110 옮기기</a> |  | <a href="/15주차/강승우/110 옮기기.md">Solve</a> |  |
