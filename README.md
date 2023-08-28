@@ -141,6 +141,11 @@
 | 23/08/30 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486?language=java">다단계 칫솔 판매</a> |  | <a href="/15주차/강승우/다단계 칫솔 판매.md">Solve</a> |  |
 | 23/08/31 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=java">모두 0으로 만들기</a> |  |  |  |
 | 23/09/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java">카드 짝 맞추기</a> |  |  |  |
+| 23/09/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12987">숫자 게임</a> |  |  |  |
+| 23/09/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a> |  |  |  |
+| 23/09/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a> |  |  |  |
+| 23/09/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> |  |  |  | 
+| 23/09/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> |  |  |  |
 
 
 </br>
