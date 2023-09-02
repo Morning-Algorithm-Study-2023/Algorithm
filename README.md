@@ -145,7 +145,12 @@
 | 23/09/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a> |  |  |  |
 | 23/09/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a> |  |  |  |
 | 23/09/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> |  |  |  | 
-| 23/09/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> |  |  |  |
+| 23/09/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> |  |  |  |
+| 23/09/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12907">거스름돈</a> |  |  |  |
+| 23/09/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> |  |  |  |
+| 23/09/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |  |  |  |
+| 23/09/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a> |  |  |  |
+| 23/09/15 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a> |  |  |  |
 
 
 </br>
