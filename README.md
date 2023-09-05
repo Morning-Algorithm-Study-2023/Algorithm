@@ -142,8 +142,8 @@
 | 23/08/31 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=java">모두 0으로 만들기</a> | <a href="/15주차/이주희/모두0으로만들기.md">Solve</a> | <a href="/15주차/강승우/모두 0으로 만들기.md">Solve</a> | ✅ |
 | 23/09/01 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java">카드 짝 맞추기</a> | <a href="/15주차/이주희/카드짝맞추기.md">Solve</a> | <a href="/15주차/강승우/카드 짝 맞추기.md">Solve</a> | ✅ |
 | 23/09/04 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12987">숫자 게임</a> | <a href="/16주차/이주희/숫자게임.md">Solve</a> | <a href="/16주차/강승우/숫자 게임.md">Solve</a> | ✅ |
-| 23/09/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a> | <a href="/16주차/이주희/기지국설치.md">Solve</a> | <a href="/16주차/강승우/기지국 설치.md">Solve</a> |  |
-| 23/09/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a> |  | <a href="/16주차/강승우/스티커 모으기(2).md">Solve</a> |  |
+| 23/09/05 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a> | <a href="/16주차/이주희/기지국설치.md">Solve</a> | <a href="/16주차/강승우/기지국 설치.md">Solve</a> | ✅ |
+| 23/09/06 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a> | <a href="/16주차/이주희/스티커모으기(2).md">Solve</a> | <a href="/16주차/강승우/스티커 모으기(2).md">Solve</a> |  |
 | 23/09/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> |  |  |  | 
 | 23/09/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> |  |  |  |
 | 23/09/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12907">거스름돈</a> |  |  |  |
