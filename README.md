@@ -1,4 +1,4 @@
-# 🏃🏻‍♂️ Morning-Algorithm-Study
+# Morning-Algorithm-Study
 * `Since 2023-05-22`   
 * `Break 2023-08-14 ~ 2023-08-25`   
 * `Start 2023-08-28`~ `ing`
