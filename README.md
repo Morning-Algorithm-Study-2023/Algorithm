@@ -147,7 +147,7 @@
 | 23/09/07 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> | <a href="/16주차/이주희/징검다리건너기.md">Solve</a> | <a href="/16주차/강승우/징검다리 건너기.md">Solve</a> | ✅ | 
 | 23/09/08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> |  <a href="/16주차/이주희/가장긴팰린드롬.md">Solve</a> | <a href="/16주차/강승우/가장 긴 팰린드롬.md">Solve</a> | ✅ |
 | 23/09/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12907">거스름돈</a> |  | <a href="/17주차/강승우/거스름돈.md">Solve</a> |  |
-| 23/09/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> |  |  |  |
+| 23/09/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> |  | <a href="/17주차/강승우/선입 선출 스케줄링.md">Solve</a> |  |
 | 23/09/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |  |  |  |
 | 23/09/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a> |  |  |  |
 | 23/09/15 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a> |  |  |  |
