@@ -149,7 +149,7 @@
 | 23/09/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12907">거스름돈</a> |  | <a href="/17주차/강승우/거스름돈.md">Solve</a> |  |
 | 23/09/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> |  | <a href="/17주차/강승우/선입 선출 스케줄링.md">Solve</a> |  |
 | 23/09/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |  | <a href="/17주차/강승우/야근 지수.md">Solve</a> |  |
-| 23/09/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a> |  |  |  |
+| 23/09/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a> |  | <a href="/17주차/강승우/광고 삽입.md">Solve</a> |  |
 | 23/09/15 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a> |  |  |  |
 
 
