@@ -151,6 +151,11 @@
 | 23/09/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |  | <a href="/17주차/강승우/야근 지수.md">Solve</a> |  |
 | 23/09/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a> |  | <a href="/17주차/강승우/광고 삽입.md">Solve</a> |  |
 | 23/09/15 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a> |  |  |  |
+| 23/09/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">파괴되지 않은 건물</a> |  |  |  |
+| 23/09/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">길 찾기 게임</a> |  |  |  |
+| 23/09/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a> |  |  |  |
+| 23/09/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> |  |  |  |
+| 23/09/22 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a> |  |  |  |
 
 
 </br>
