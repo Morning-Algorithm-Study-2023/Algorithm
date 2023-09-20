@@ -154,7 +154,7 @@
 | 23/09/18 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">파괴되지 않은 건물</a> | <a href="/18주차/이주희/파괴되지않은건물.md">Solve</a>  | <a href="/18주차/강승우/파괴되지 않은 건물.md">Solve</a> | ✅ |
 | 23/09/19 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">길 찾기 게임</a> | <a href="/18주차/이주희/길찾기게임.md">Solve</a> | <a href="/18주차/강승우/길 찾기 게임.md">Solve</a> | ✅ |
 | 23/09/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a> | <a href="/18주차/이주희/기둥과보설치.md">Solve</a> | <a href="/18주차/강승우/기둥과 보 설치.md">Solve</a> |  |
-| 23/09/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> |  |  |  |
+| 23/09/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> |  | <a href="/18주차/강승우/양과 늑대.md">Solve</a> |  |
 | 23/09/22 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a> |  |  |  |
 | 23/09/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a> |  |  |  |
 | 23/09/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스</a> |  |  |  |
