@@ -156,7 +156,7 @@
 | 23/09/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a> | <a href="/18주차/이주희/기둥과보설치.md">Solve</a> | <a href="/18주차/강승우/기둥과 보 설치.md">Solve</a> | ✅ |
 | 23/09/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> | <a href="/18주차/이주희/양과늑대.md">Solve</a> | <a href="/18주차/강승우/양과 늑대.md">Solve</a> |  |
 | 23/09/22 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a> |  | <a href="/18주차/강승우/외벽 점검.md">Solve</a> |  |
-| 23/09/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a> |  |  |  |
+| 23/09/25 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a> |  | <a href="/19주차/강승우/k진수에서 소수 개수 구하기.md">Solve</a> |  |
 | 23/09/26 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스</a> |  |  |  |
 | 23/09/27 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">주차 요금 계산</a> |  |  |  |
 | 23/09/28 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a> |  |  |  |
