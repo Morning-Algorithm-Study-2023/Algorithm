@@ -33,7 +33,7 @@
 ## 🆗 소스 코드 업로드 
 - 주어진 문제를 해결하고 문제.md에 소요시간, 메모리, 풀이과정 작성 후 `Solve`로 링크 연결 ([SAMPLE](SAMPLE/README.md))
 
-<details>
+<details open> 
 <summary>📂 1주차 ~ 3주차</summary>
 <div markdown="1">
 <br>
@@ -57,8 +57,8 @@
 </div>
 </details>
 
-<details>
-<summary>📂 3주차 ~ 8주차 </summary>
+<details open>
+<summary>📂 3주차 ~ 8주차</summary>
 <div markdown="1">
 <br>
   
@@ -93,12 +93,12 @@
 | 23/07/12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354?language=java">테이블 해시 함수</a> | - | <a href="/8주차/이주희/테이블해시함수.md">Solve</a>  | <a href="/8주차/황수영/테이블해시함수.md">Solve</a> | <a href="/8주차/강승우/테이블 해시 함수.md">Solve</a> | - | ✅  |
 | 23/07/13 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java">디펜스 게임</a> | - |<a href="/8주차/이주희/디펜스게임.md">Solve</a>| <a href="/8주차/황수영/디펜스게임.md">Solve</a> | <a href="/8주차/강승우/디펜스 게임.md">Solve</a> | - | ✅  |
 | 23/07/14 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java">점 찍기</a> | - | <a href="/8주차/이주희/점찍기.md">Solve</a>  | <a href="/8주차/황수영/점찍기.md">Solve</a> | <a href="/8주차/강승우/점 찍기.md">Solve</a> | - | ✅ |
-  
+</br>  
 </div>
 </details>
 
-<details >
-<summary>📂 9주차 ~ 12주차 </summary>
+<details open>
+<summary>📂 9주차 ~ 12주차</summary>
 <div markdown="1">
 <br>
   
@@ -124,12 +124,12 @@
 | 23/08/09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java">표현 가능한 이진트리</a> | <a href="/12주차/이주희/표현가능한이진트리.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표현 가능한 이진트리.md">Solve</a> |  ✅ |
 | 23/08/10 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java">표 병합</a> | <a href="/12주차/이주희/표병합.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/표 병합.md">Solve</a> | ✅ |
 | 23/08/11 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java">미로 탈출 명령어</a> | <a href="/12주차/이주희/미로탈출명령어.md">Solve</a> | 🅿️ | <a href="/12주차/강승우/미로 탈출 명령어.md">Solve</a> | ✅ |
-
+</br>
 </div>
 </details>
 
 <details open>
-<summary>📂 15주차 ~ ing </summary>
+<summary>📂 15주차 ~ 18주차 </summary>
 <div markdown="1">
 <br>
   
@@ -155,8 +155,6 @@
 | 23/09/20 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a> | <a href="/18주차/이주희/기둥과보설치.md">Solve</a> | <a href="/18주차/강승우/기둥과 보 설치.md">Solve</a> | ✅ |
 | 23/09/21 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> | <a href="/18주차/이주희/양과늑대.md">Solve</a> | <a href="/18주차/강승우/양과 늑대.md">Solve</a> | ✅ |
 | 23/09/22 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a> | <a href="/18주차/이주희/외벽점검.md">Solve</a> | <a href="/18주차/강승우/외벽 점검.md">Solve</a> | ✅ |
-
-
 </br>
   
 </div>
